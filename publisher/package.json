@@ -1,0 +1,14 @@
+{
+  "name": "publisher",
+  "version": "1.0.0",
+  "description": "Writes to the Q",
+  "main": "send.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.3"
+  }
+}
